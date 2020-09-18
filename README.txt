@@ -1,4 +1,7 @@
-Developer Portfolio page based on:
+### Developer portfolio available at [https://m-lieberman.github.io/developer-portfolio/](https://m-lieberman.github.io/developer-portfolio/)
+
+
+Page based on:
 
 Read Only by HTML5 UP
 html5up.net | @ajlkn
